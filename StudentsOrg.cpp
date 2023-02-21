@@ -3,7 +3,7 @@
 #include <unistd.h>
 using namespace std;
 
-void myIntro();
+//void myIntro();
 
 struct Student{
 int id;
