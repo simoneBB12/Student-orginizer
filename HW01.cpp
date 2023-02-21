@@ -164,9 +164,10 @@ int main(int argc,char* argv[])
 
     return 0;
 }
+/*
 void myIntro()
 {
-    cout <<"\tComputer Science"<<endl;
-    cout<<"\tCSCE 1040.003 - Computer Science II" <<endl;
-    cout <<"Simone Brewington\tsb1452\tsimonebrewington@my.unt.edu"<<endl;
+    
+    cout <<"Simone Brewington"<<endl;
 }
+*/
